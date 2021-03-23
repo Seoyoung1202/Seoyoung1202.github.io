@@ -5,7 +5,7 @@ url: "https://Seoyoung1202.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: 블로그
+  title: "블로그"
   avatar: #assets/img/avatar.png
   favicon: #assets/favicon.ico
   gravatar: # Email MD5 hash
